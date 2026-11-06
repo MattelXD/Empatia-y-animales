@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>¿A quién ayudarías?</title>
+<link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+<main id="app" aria-live="polite"></main>
+<noscript><p style="padding:2em">Este estudio necesita JavaScript activado.</p></noscript>
+<script>
+  // Los módulos ES no funcionan abriendo el archivo con doble clic (file://).
+  if (location.protocol === "file:") {
+    document.getElementById("app").innerHTML =
+      "<h1>Falta un servidor local</h1><p>Abre una terminal en esta carpeta y ejecuta <code>python3 -m http.server 8000</code>. Luego visita <code>http://localhost:8000</code>.</p>";
+  }
+</script>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>
