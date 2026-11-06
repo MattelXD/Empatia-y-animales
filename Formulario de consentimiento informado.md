@@ -1,6 +1,10 @@
 # Formulario de consentimiento informado
 
+<<<<<<< HEAD
 **Estudio:** Animales, Empatía y atractivo fisico
+=======
+**Estudio:** Decisiones de ayuda a animales y percepción de su apariencia
+>>>>>>> ef66144ff6299657bfd479d5410e53a10344bada
 
 Antes de decidir si participas, lee con calma esta información. Si algo no queda claro, puedes preguntar al investigador responsable (sus datos están al final).
 
@@ -34,7 +38,11 @@ Los datos se registran automáticamente mientras participas. Al terminar, se env
 
 ## 3. Riesgos, molestias y beneficios
 
+<<<<<<< HEAD
 **Riesgos y molestias.** El riesgo es mínimo, similar al de la vida cotidiana. Si te ocurre, puedes detenerte en cualquier momento cerrando la página. También puede resultar un poco cansador elegir repetidamente entre imágenes. Hay ciertas especies que pueden afectar a personas que tienen una fobia como a las arañas o insecto
+=======
+**Riesgos y molestias.** El riesgo es mínimo, similar al de la vida cotidiana. Si te ocurre, puedes detenerte en cualquier momento cerrando la página. También puede resultar un poco cansador elegir repetidamente entre imágenes.
+>>>>>>> ef66144ff6299657bfd479d5410e53a10344bada
 
 **Beneficios.** No recibirás ningún beneficio directo ni pago por participar. Tu participación contribuirá al conocimiento sobre cómo se toman decisiones de ayuda hacia otras especies, lo que puede servir para diseñar mejores campañas de protección animal.
 
